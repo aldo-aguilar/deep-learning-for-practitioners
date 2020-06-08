@@ -1,4 +1,4 @@
-﻿#Using RL for Algorithmic Trading Problem 
+﻿# Using RL for Algorithmic Trading Problem 
 (Q - Question) (A - Answer)
 
 
